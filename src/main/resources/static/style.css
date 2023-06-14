@@ -1,0 +1,47 @@
+.bg-white{
+  background-color: rgb(255, 255, 255);
+}
+
+.bg-grey{
+background-color: rgb(238, 234, 229);
+}
+
+.bg-azul{
+  background-color: #009cde;
+}
+
+.ml-200{
+  margin-left: 200px;
+}
+
+.ml-483{
+  margin-left: 483px;
+}
+
+.ml-60{
+  margin-left: 60px;
+}
+
+.ml-0{
+  margin-left: 1px;
+}
+
+.w-90{
+  width: 75%;
+  margin: 0 auto;
+
+}
+.section{
+  width: 100%;
+}
+
+.bg-login-image{
+  background: url(img/gradbachg.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.tamaño{
+  height: 50px;
+  width: 220px;
+}
