@@ -10,6 +10,7 @@ function generarContenedores() {
     if (i % 12 === 0) {
       const fila = document.createElement("div");
       fila.classList.add("row");
+      fila.classList.add("justify-content-center");
       contenedor.appendChild(fila);
     }
 
